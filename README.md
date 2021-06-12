@@ -1,4 +1,4 @@
-# csv_arrange_data
+# arrange_data
  This script will tranform the single columnar data into multiple columns
 
 If your row-wise data is in a single column then you can transform the data into proper row and column wise.
